@@ -1,4 +1,4 @@
-
+#这是一个真正的应用chatgpt来对评论进行分类的程序主体，复制代码，在加上1111.txt这个文件就可以开始测试使用了。
 import os
 import socket
 
